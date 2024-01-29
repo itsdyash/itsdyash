@@ -18,7 +18,7 @@ I'm Dhananjay Vaishnav, a passionate Software Engineer based in Jodhpur. Welcome
 ## 🌟 Featured Projects
 
 1. [INFODECK](https://github.com/itsdyash/INFODECK)
-2. [JAVA PRACTICE](project2_link)
+2. [JAVA PRACTICE](https://github.com/itsdyash/Java-Practice))
 
 Explore more on [my GitHub repositories](https://github.com/itsdyash).
 
