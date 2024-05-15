@@ -26,7 +26,7 @@ Explore more on [my GitHub repositories](https://github.com/itsdyash).
 
 ## 📫 Let's Connect
 
-- 📧 Email: durgabachhawat@gmail.com
+- 📧 Email: dhananjayvaishnavyv@gmail.com
 - 💼 LinkedIn: [Dhananjay Vaishnav](https://www.linkedin.com/in/itsdyash)
 - 📷 Instagram: [its.dyash](https://www.instagram.com/its.dyash)
 
